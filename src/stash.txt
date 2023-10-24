@@ -1,0 +1,24 @@
+const List = () => {
+    return (
+        <ul className="card-list">
+            <li className="task-item">
+                <input id="ch1" type="checkbox" name="task-item"/>
+                <div className="task-content">
+                    <label for="ch1" className="task-icon">
+                    </label>                
+                    <div className="task-label">Iniciar procesos</div>
+                </div>
+                <div className="task-state task-state-pending">Pending</div>
+            </li>
+            <li className="task-item">
+                <input id="ch2" type="checkbox" name="task-item"/>
+                <div className="task-content">
+                    <label for="ch2" className="task-icon">
+                    </label>                
+                    <div className="task-label">Primera Tarea</div>
+                </div>
+                <div className="task-state task-state-complete">Complete</div>
+            </li>
+        </ul>
+    );
+}
