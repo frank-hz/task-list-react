@@ -11,7 +11,7 @@ export const TaskList = ({tasks, update_task, remove_task}) => {
             />
         ));
     }else {
-        data_render = <li className="task-muted">Sin Datos</li>;
+        data_render = <li className="task-muted">No Tasks Created</li>;
     }
     return (
         <ul className='card-list'>    
