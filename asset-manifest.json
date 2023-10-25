@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tasks-react/static/css/main.4de8b1cc.css",
+    "main.css": "/tasks-react/static/css/main.c1bd04d3.css",
     "main.js": "/tasks-react/static/js/main.97296642.js",
     "static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-900.ttf": "/tasks-react/static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-900.824b83bd6175d15c56a0.ttf",
     "static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-800.ttf": "/tasks-react/static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-800.b5106cb7530d95fdcca4.ttf",
@@ -48,11 +48,11 @@
     "static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-200.svg": "/tasks-react/static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-200.5aba9be1768a7712dfd9.svg",
     "static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-100.svg": "/tasks-react/static/media/inter-v3-vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic-100.b4bd1290928b219f3345.svg",
     "index.html": "/tasks-react/index.html",
-    "main.4de8b1cc.css.map": "/tasks-react/static/css/main.4de8b1cc.css.map",
+    "main.c1bd04d3.css.map": "/tasks-react/static/css/main.c1bd04d3.css.map",
     "main.97296642.js.map": "/tasks-react/static/js/main.97296642.js.map"
   },
   "entrypoints": [
-    "static/css/main.4de8b1cc.css",
+    "static/css/main.c1bd04d3.css",
     "static/js/main.97296642.js"
   ]
 }
